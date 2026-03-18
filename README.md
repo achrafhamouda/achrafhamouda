@@ -20,8 +20,7 @@
 - 🤖 57% AI & Data Science · 🔐 43% Cybersecurity — a hybrid program unique in Morocco
 - 🔬 Interested in **post-quantum cryptography**, **ML/Deep Learning** and **secure cloud architectures**
 - 🌿 Building apps that combine **AI** with **real-world environmental impact**
-- 🚩 Active **CTF player** — always up for a good challenge
-- ⚡ Fun fact: I do my best coding late at night ☕
+- 🚩 Active **CTF player**
 
 ---
 
@@ -60,19 +59,6 @@
 | ☁️ **OpenStack Manual Deployment** | Full OpenStack installation on Ubuntu 22.04 (Keystone, Nova, Neutron, Cinder, Horizon) | OpenStack · VMware · MariaDB |
 | 📋 **Incident Management System** | Incident tracking and management application | Java · MVC Architecture |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafhamouda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafhamouda&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=achrafhamouda&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -114,7 +100,7 @@ ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
 
 <div align="center">
 
-*"Code, learn, repeat."* 🚀
+*"Aayayay."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=achrafhamouda&color=22c55e&style=flat-square)
 
