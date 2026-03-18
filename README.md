@@ -2,7 +2,7 @@
 
 # Hi there, I'm Achraf Hamouda 👋
 
-**Engineering Student @ ENSA Béni Mellal · FI-IACS — Intelligence Artificielle & Cybersécurité**
+**Engineering Student at @ENSA-BM · FI-IACS — Intelligence Artificielle & Cybersécurité**
 
 *Passionate about Artificial Intelligence, Cybersecurity & Data Science*
 
