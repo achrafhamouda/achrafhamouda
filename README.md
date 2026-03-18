@@ -1,44 +1,44 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Achraf Hamouda
+# Hi there, I'm Achraf Hamouda 👋
 
-**Étudiant ingénieur @ ENSA Béni Mellal · IACS S2**
+**Engineering Student @ ENSA Béni Mellal · IACS — AI & Cybersecurity**
 
-*Passionné par l'IA, la sécurité, le cloud et le développement web*
+*Passionate about Artificial Intelligence, Cybersecurity, Cloud Computing & Web Development*
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Machine+Learning+%26+Deep+Learning;Post-Quantum+Cryptography;Cloud+%26+Big+Data;Full+Stack+Web+Dev)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Cybersecurity+%26+Cryptography;Cloud+%26+Big+Data;Full+Stack+Web+Development)
 
 </div>
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-- 🎓 Étudiant en **Ingénierie des Applications et des Systèmes** (IACS S2) à **ENSA Béni Mellal**
-- 🔐 Passionné par la **cryptographie post-quantique** et la sécurité des systèmes
-- 🤖 En cours d'apprentissage : **Machine Learning**, **Big Data NoSQL**, **Cloud Computing**
-- 🌿 Je construis des apps qui allient **IA** et **impact environnemental**
-- ⚡ Fun fact : je code souvent tard la nuit ☕
+- 🎓 Engineering student in **AI & Cybersecurity** (IACS) at **ENSA Béni Mellal**, Morocco
+- 🔐 Deeply interested in **post-quantum cryptography** and system security
+- 🤖 Currently studying: **Machine Learning**, **Big Data & NoSQL**, **Cloud Computing**
+- 🌿 Building apps that combine **AI** with **real-world environmental impact**
+- ⚡ Fun fact: I do my best coding late at night ☕
 
 ---
 
-## 🛠️ Stack Technologique
+## 🛠️ Tech Stack
 
-### Langages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & BDD
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### IA & Data
+### AI & Data Science
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,14 +50,14 @@
 
 ---
 
-## 📌 Projets Épinglés
+## 📌 Featured Projects
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🌿 **Campus Éco-Responsable & IA** | App web de signalement d'incidents environnementaux sur campus | Node.js · Express · PostgreSQL · MVC |
-| 🔐 **Détection PQC par IA** | Détection automatique de faiblesses dans les algorithmes post-quantiques (Kyber, Dilithium, FALCON) | Python · Random Forest · LSTM · CodeBERT |
-| ☁️ **OpenStack Manual Install** | Installation complète d'OpenStack sur Ubuntu 22.04 (Keystone, Nova, Neutron, Cinder, Horizon) | OpenStack · VMware · MariaDB |
-| 📋 **Système Gestion Incidents** | Application de gestion d'incidents — Génie Logiciel | Java / MVC |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🌿 **Eco-Responsible Campus & AI** | Web app for reporting environmental issues on campus with AI assistance | Node.js · Express · PostgreSQL · MVC |
+| 🔐 **PQC Weakness Detection via AI** | Automatic detection of weaknesses in post-quantum algorithms (Kyber, Dilithium, FALCON, SPHINCS+) | Python · Random Forest · LSTM · CodeBERT |
+| ☁️ **OpenStack Manual Deployment** | Full OpenStack installation on Ubuntu 22.04 (Keystone, Nova, Neutron, Cinder, Horizon) | OpenStack · VMware · MariaDB |
+| 📋 **Incident Management System** | Incident tracking and management application | Java · MVC Architecture |
 
 ---
 
@@ -75,24 +75,24 @@
 
 ---
 
-## 🎓 Formation actuelle
+## 🎓 Current Coursework
 
 ```
-ENSA Béni Mellal — IACS S2
-├── 🔐 Cryptographie
+ENSA Béni Mellal — IACS (AI & Cybersecurity)
+├── 🔐 Cryptography
 ├── 🤖 Machine Learning
 ├── ☁️  Cloud Computing
 ├── 📦 Big Data & NoSQL
-├── 🏗️  Architecture Logicielle
-└── 📋 Gestion de Projets Agile
+├── 🏗️  Software Architecture
+└── 📋 Agile Project Management
 ```
 
 ---
 
-## 📫 Me contacter
+## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafhamouda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achrafhamouda)
 
 ---
