@@ -2,7 +2,7 @@
 
 # Hi there, I'm Achraf Hamouda 👋
 
-**Engineering Student at @ENSA-BM · FI-IACS — Intelligence Artificielle & Cybersécurité**
+**Engineering Student @ ENSA Béni Mellal · FI-IACS — Intelligence Artificielle & Cybersécurité**
 
 *Passionate about Artificial Intelligence, Cybersecurity & Data Science*
 
@@ -20,6 +20,7 @@
 - 🤖 57% AI & Data Science · 🔐 43% Cybersecurity — a hybrid program unique in Morocco
 - 🔬 Interested in **post-quantum cryptography**, **ML/Deep Learning** and **secure cloud architectures**
 - 🌿 Building apps that combine **AI** with **real-world environmental impact**
+- 🚩 Active **CTF player** — always up for a good challenge
 - ⚡ Fun fact: I do my best coding late at night ☕
 
 ---
