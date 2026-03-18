@@ -2,9 +2,9 @@
 
 # Hi there, I'm Achraf Hamouda 👋
 
-**Engineering Student @ ENSA Béni Mellal · IACS — AI & Cybersecurity**
+**Engineering Student @ ENSA Béni Mellal · FI-IACS — Intelligence Artificielle & Cybersécurité**
 
-*Passionate about Artificial Intelligence, Cybersecurity & Sciences de l'Ingénieur*
+*Passionate about Artificial Intelligence, Cybersecurity & Data Science*
 
 ---
 
@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Engineering student in **AI & Cybersecurity** (IACS) at **ENSA Béni Mellal**, Morocco
-- 🔐 Deeply interested in **post-quantum cryptography** and system security
-- 🤖 Currently studying: **Machine Learning**, **Big Data & NoSQL**, **Cloud Computing**
+- 🎓 Engineering student in **FI-IACS — Intelligence Artificielle & Cybersécurité** at **ENSA Béni Mellal** — Université Sultan Moulay Slimane, Morocco
+- 🤖 57% AI & Data Science · 🔐 43% Cybersecurity — a hybrid program unique in Morocco
+- 🔬 Interested in **post-quantum cryptography**, **ML/Deep Learning** and **secure cloud architectures**
 - 🌿 Building apps that combine **AI** with **real-world environmental impact**
 - ⚡ Fun fact: I do my best coding late at night ☕
 
@@ -78,13 +78,27 @@
 ## 🎓 Current Coursework
 
 ```
-ENSA Béni Mellal — IACS (AI & Cybersecurity)
-├── 🔐 Cryptography
-├── 🤖 Machine Learning
-├── ☁️  Cloud Computing
-├── 📦 Big Data & NoSQL
-├── 🏗️  Software Architecture
-└── 📋 Agile Project Management
+ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
+│
+⚙️  Sciences de l'Ingénieur (10 modules)
+│   ├── Python · Databases · Networks · Math for AI
+│   ├── Software Architecture · Cloud & Virtualisation
+│   └── Emerging Tech & Quantum · Blockchain
+│
+🤖  Data & Intelligence Artificielle (9 modules)
+│   ├── Machine Learning · Deep Learning
+│   ├── Big Data & NoSQL · NLP & Text Mining
+│   └── Generative AI & Agentic Systems
+│
+🛡️  Cybersécurité & Réseaux (7 modules)
+│   ├── Cryptography · Cybersecurity & Cyberdefense
+│   ├── IAM · IoT & Edge Security · Forensics
+│   └── DevSecOps · Compliance & Governance
+│
+🌍  Langues & Soft Skills (9 modules)
+    ├── Technical French & English
+    ├── Agile Project Management
+    └── Innovation & Entrepreneurship
 ```
 
 ---
