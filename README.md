@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Engineering student in **FI-IACS — Intelligence Artificielle & Cybersécurité** at **ENSA Béni Mellal** — Université Sultan Moulay Slimane, Morocco
 - 🤖 57% AI & Data Science · 🔐 43% Cybersecurity — a hybrid program unique in Morocco
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎓 Current Coursework
+## Current Coursework
 
 ```
 ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
@@ -90,7 +90,7 @@ ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafhamouda)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
