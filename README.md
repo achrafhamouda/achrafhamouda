@@ -61,19 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafhamouda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafhamouda&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=achrafhamouda&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Current Coursework
 
