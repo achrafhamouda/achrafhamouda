@@ -113,7 +113,7 @@ ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
 
 <div align="center">
 
-*"Code, learn, repeat."* 🚀
+*"Ayayay."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=achrafhamouda&color=22c55e&style=flat-square)
 
