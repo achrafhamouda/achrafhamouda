@@ -21,7 +21,6 @@
 - 🔬 Interested in **post-quantum cryptography**, **ML/Deep Learning** and **secure cloud architectures**
 - 🌿 Building apps that combine **AI** with **real-world environmental impact**
 - 🚩 Active **CTF player** — always up for a good challenge
-- ⚡ Fun fact: I do my best coding late at night ☕
 
 ---
 
