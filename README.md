@@ -8,7 +8,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Cybersecurity+%26+Cryptography;Cloud+%26+Big+Data;Full+Stack+Web+Development)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Cybersecurity+%26+Cryptography;Cloud+%26+Big+Data)
 
 </div>
 
