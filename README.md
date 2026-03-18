@@ -2,7 +2,7 @@
 
 # Hi there, I'm Achraf Hamouda 👋
 
-**Engineering Student @ ENSA Béni Mellal · IACS — AI & Cybersecurity**
+**Engineering Student at @ENSA-BM · IACS — AI & Cybersecurity**
 
 *Passionate about Artificial Intelligence, Cybersecurity, Cloud Computing & Web Development*
 
