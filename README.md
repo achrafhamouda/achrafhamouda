@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Achraf Hamouda 👋
+# Hi there, I'm [Achraf HAMOUDA](https://www.linkedin.com/in/achrafhamouda) 👋
 
-**Engineering Student at @ENSA-BM · FI-IACS — Intelligence Artificielle & Cybersécurité**
+**Engineering Student @ ENSA Béni Mellal · FI-IACS — Intelligence Artificielle & Cybersécurité**
 
 *Passionate about Artificial Intelligence, Cybersecurity & Data Science*
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Cybersecurity+%26+Cryptography;Cloud+%26+Big+Data)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Cybersecurity+%26+Cryptography;Cloud+%26+Big+Data;Full+Stack+Web+Development)
 
 </div>
 
@@ -21,6 +21,7 @@
 - 🔬 Interested in **post-quantum cryptography**, **ML/Deep Learning** and **secure cloud architectures**
 - 🌿 Building apps that combine **AI** with **real-world environmental impact**
 - 🚩 Active **CTF player** — always up for a good challenge
+- ⚡ Fun fact: I do my best coding late at night ☕
 
 ---
 
@@ -61,6 +62,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafhamouda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafhamouda&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=achrafhamouda&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 ## 🎓 Current Coursework
 
@@ -100,7 +114,7 @@ ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
 
 <div align="center">
 
-*"Ayayay."* 
+*"Code, learn, repeat."* 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=achrafhamouda&color=22c55e&style=flat-square)
 
