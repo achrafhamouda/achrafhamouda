@@ -62,7 +62,7 @@
 
 ---
 
-## Current Coursework
+## Current Coursework 
 
 ```
 ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
