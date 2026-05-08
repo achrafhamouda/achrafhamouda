@@ -2,7 +2,7 @@
 
 [Achraf HAMOUDA](https://www.linkedin.com/in/achrafhamouda)     
 
-**Engineering Student at @ENSA-BM · FI-IACS — Intelligence Artificielle & Cybersécurité**
+**Engineering Student at @ENSA-BM · FI-IACS — Intelligence Artificielle & Cybersécurité**  
 
 *Passionate about Artificial Intelligence, Cybersecurity & Data Science*  
 
