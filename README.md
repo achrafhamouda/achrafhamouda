@@ -52,7 +52,7 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Stack |             
 |---------|-------------|-------|
 | 🌿 **Eco-Responsible Campus & AI** | Web app for reporting environmental issues on campus with AI assistance | Node.js · Express · PostgreSQL · MVC |
 | 🔐 **PQC Weakness Detection via AI** | Automatic detection of weaknesses in post-quantum algorithms (Kyber, Dilithium, FALCON, SPHINCS+) | Python · Random Forest · LSTM · CodeBERT |
