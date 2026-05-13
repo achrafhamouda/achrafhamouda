@@ -4,7 +4,7 @@
 
 **Engineering Student at @ENSA-BM · FI-IACS — Intelligence Artificielle & Cybersécurité**  
 
-*Passionate about Artificial Intelligence, Cybersecurity & Data Science*  
+*Passionate about Artificial Intelligence, Cybersecurity & Data Science*              
 
 ---
 
