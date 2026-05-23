@@ -14,7 +14,7 @@
 
 ---
 
-## About Me
+## About Me                       
 
 - 🎓 Engineering student in **FI-IACS — Intelligence Artificielle & Cybersécurité** at **ENSA Béni Mellal** — Université Sultan Moulay Slimane, Morocco
 - 🤖 57% AI & Data Science · 🔐 43% Cybersecurity — a hybrid program unique in Morocco
