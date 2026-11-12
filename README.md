@@ -30,7 +30,7 @@ Offensive and defensive security, powered by data and AI.
 **SIEM/XDR Internship** · Université Mohammed V de Rabat · *Jul 2026*\
 Built a UTMStack SIEM/XDR proof of concept: Windows log pipeline (Sysmon → NXLog → UTMStack → OpenSearch), a custom Sysmon parser (~600 lines) and 4 detection rules mapped to MITRE ATT&CK (T1204, T1105, T1547.001, T1490), validated by attack simulation.
 
-**Threat Early-Warning for SMEs** · CMRPI, Espace Maroc Cyberconfiance · *Jul – Aug 2026, remote*\
+**Threat Early-Warning for SMEs** · CMRPI, Espace Maroc Cyberconfiance · *WAKHA*\
 Threat-intelligence watch, ML detection models (scikit-learn), dashboards and alerting on the Elastic Stack.
 
 ## 🧰 Arsenal
