@@ -1,70 +1,50 @@
-<div align="center">         
+<div align="center">
 
-[Achraf HAMOUDA](https://www.linkedin.com/in/achrafhamouda)                                                               
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=640&lines=%24+whoami;Achraf+HAMOUDA+%2F%2F+aka+raph;Red+Team+%C2%B7+Blue+Team+%C2%B7+AI+%26+Data;Think+like+an+attacker.+Build+like+a+defender." alt="Typing SVG" />
 
-**Engineering Student at @ENSA-BM · FI-IACS — Intelligence Artificielle & Cybersécurité**    
+### AI & Cybersecurity Engineering Student · ENSA Béni Mellal
 
-*Passionate about Artificial Intelligence, Cybersecurity & Data Science*                     
+Offensive and defensive security, powered by data and AI.
 
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Cybersecurity+%26+Cryptography;Cloud+%26+Big+Data)        
+<a href="https://www.linkedin.com/in/achrafhamouda"><img src="https://img.shields.io/badge/LinkedIn-achrafhamouda-22c55e?style=for-the-badge&labelColor=161b22&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM0VjloMy40MnYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxIDEgMC00LjEzIDIuMDcgMi4wNyAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIzIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ2Yy45OCAwIDEuNzctLjc3IDEuNzctMS43M1YxLjczQzI0IC43NyAyMy4yMSAwIDIyLjIzIDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Hack_The_Box-Player-22c55e?style=for-the-badge&labelColor=161b22&logo=hackthebox&logoColor=9fef00" alt="Hack The Box player" />
+<a href="mailto:achrafhamoudax@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-22c55e?style=for-the-badge&labelColor=161b22&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+```text
+┌──(raph㉿kali)-[~]
+└─$ whoami --verbose
 
-## About Me                       
-
-- 🎓 Engineering student in **FI-IACS — Intelligence Artificielle & Cybersécurité** at **ENSA Béni Mellal** — Université Sultan Moulay Slimane, Morocco
-- 🤖 57% AI & Data Science · 🔐 43% Cybersecurity — a hybrid program unique in Morocco
-- 🔬 Interested in **post-quantum cryptography**, **ML/Deep Learning** and **secure cloud architectures**
-- 🌿 Building apps that combine **AI** with **real-world environmental impact**
-- 🚩 Active **CTF player**
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & Databases                         
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI & Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Cloud & DevOps
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)          
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Featured Projects                             
-
-| Project | Description | Stack |             
-|---------|-------------|-------|
-| 🌿 **Eco-Responsible Campus & AI** | Web app for reporting environmental issues on campus with AI assistance | Node.js · Express · PostgreSQL · MVC |
-| 🔐 **PQC Weakness Detection via AI** | Automatic detection of weaknesses in post-quantum algorithms (Kyber, Dilithium, FALCON, SPHINCS+) | Python · Random Forest · LSTM · CodeBERT |
-| ☁️ **OpenStack Manual Deployment** | Full OpenStack installation on Ubuntu 22.04 (Keystone, Nova, Neutron, Cinder, Horizon) | OpenStack · VMware · MariaDB |
-| 📋 **Incident Management System** | Incident tracking and management application | Java · MVC Architecture |
-
-
----
-
-## Current Coursework 
-
+  name      Achraf HAMOUDA  (aka raph)
+  role      AI & Cybersecurity engineering student, 2nd year @ ENSA Béni Mellal
+  offense   Hack The Box player · web & network pentest · CTFs
+  defense   SIEM/XDR (UTMStack, Wazuh) · custom detection rules · MITRE ATT&CK
+  ai/data   ML for threat detection · Deep Learning · NLP
+  lead      President of CSIA, the Cybersecurity & AI club of ENSA-BM
+  status    curious about everything, always learning something new
 ```
+
+## 🛰️ Field Experience
+
+**SIEM/XDR Internship** · Université Mohammed V de Rabat · *Jul 2026*\
+Built a UTMStack SIEM/XDR proof of concept: Windows log pipeline (Sysmon → NXLog → UTMStack → OpenSearch), a custom Sysmon parser (~600 lines) and 4 detection rules mapped to MITRE ATT&CK (T1204, T1105, T1547.001, T1490), validated by attack simulation.
+
+**Threat Early-Warning for SMEs** · CMRPI, Espace Maroc Cyberconfiance · *Jul – Aug 2026, remote*\
+Threat-intelligence watch, ML detection models (scikit-learn), dashboards and alerting on the Elastic Stack.
+
+## 🧰 Arsenal
+
+| Domain | Tools |
+|---|---|
+| **🗡️ Offense** | <img src="https://img.shields.io/badge/Kali_Linux-161b22?style=flat-square&logo=kalilinux&logoColor=22c55e" alt="Kali Linux" /> <img src="https://img.shields.io/badge/Metasploit-161b22?style=flat-square&logo=metasploit&logoColor=22c55e" alt="Metasploit" /> <img src="https://img.shields.io/badge/Nmap-161b22?style=flat-square" alt="Nmap" /> <img src="https://img.shields.io/badge/Burp_Suite-161b22?style=flat-square&logo=burpsuite&logoColor=22c55e" alt="Burp Suite" /> <img src="https://img.shields.io/badge/SQLmap-161b22?style=flat-square" alt="SQLmap" /> <img src="https://img.shields.io/badge/Hydra-161b22?style=flat-square" alt="Hydra" /> <img src="https://img.shields.io/badge/Gobuster_%2F_ffuf-161b22?style=flat-square" alt="Gobuster / ffuf" /> <img src="https://img.shields.io/badge/John_%2F_Hashcat-161b22?style=flat-square&logo=hashcat&logoColor=22c55e" alt="John / Hashcat" /> <img src="https://img.shields.io/badge/Ghidra-161b22?style=flat-square" alt="Ghidra" /> <img src="https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=22c55e" alt="Wireshark" /> |
+| **🛡️ Defense** | <img src="https://img.shields.io/badge/UTMStack-161b22?style=flat-square" alt="UTMStack" /> <img src="https://img.shields.io/badge/Wazuh-161b22?style=flat-square" alt="Wazuh" /> <img src="https://img.shields.io/badge/Sysmon-161b22?style=flat-square" alt="Sysmon" /> <img src="https://img.shields.io/badge/NXLog-161b22?style=flat-square" alt="NXLog" /> <img src="https://img.shields.io/badge/OpenSearch-161b22?style=flat-square&logo=opensearch&logoColor=22c55e" alt="OpenSearch" /> <img src="https://img.shields.io/badge/Elastic_Stack-161b22?style=flat-square&logo=elastic&logoColor=22c55e" alt="Elastic Stack" /> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-161b22?style=flat-square" alt="MITRE ATT&CK" /> <img src="https://img.shields.io/badge/Active_Directory-161b22?style=flat-square" alt="Active Directory" /> <img src="https://img.shields.io/badge/Keycloak-161b22?style=flat-square&logo=keycloak&logoColor=22c55e" alt="Keycloak" /> |
+| **🧠 AI & Data** | <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=22c55e" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=22c55e" alt="scikit-learn" /> <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=22c55e" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=22c55e" alt="Pandas" /> <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=22c55e" alt="Streamlit" /> <img src="https://img.shields.io/badge/Deep_Learning-161b22?style=flat-square" alt="Deep Learning" /> <img src="https://img.shields.io/badge/NLP-161b22?style=flat-square" alt="NLP" /> |
+| **⚙️ Dev & Cloud** | <img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=22c55e" alt="C" /> <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=22c55e" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=22c55e" alt="JavaScript" /> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=22c55e" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=22c55e" alt="MongoDB" /> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=22c55e" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=22c55e" alt="Express" /> <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=22c55e" alt="Flask" /> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=22c55e" alt="Docker" /> <img src="https://img.shields.io/badge/OpenStack-161b22?style=flat-square&logo=openstack&logoColor=22c55e" alt="OpenStack" /> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=22c55e" alt="Linux" /> <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=22c55e" alt="Git" /> |
+
+## 🎓 Training
+
+```text
 ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
 │
 ⚙️  Sciences de l'Ingénieur (10 modules)
@@ -90,18 +70,10 @@ ENSA Béni Mellal — FI-IACS · Bac+5 · 180 ECTS
 
 ---
 
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafhamouda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achrafhamouda)
-
----
-
 <div align="center">
 
-*"Aayayay."*
+`raph@kali:~$ echo "Think like an attacker. Build like a defender. Never stop learning."`
 
-![Profile Views](https://komarev.com/ghpvc/?username=achrafhamouda&color=22c55e&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=achrafhamouda&color=22c55e&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
