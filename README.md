@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=640&lines=%24+whoami;Achraf+HAMOUDA+%2F%2F+aka+raph;Red+Team+%C2%B7+Blue+Team+%C2%B7+AI+%26+Data;Think+like+an+attacker.+Build+like+a+defender." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=640&lines=%24+whoami;Achraf+HAMOUDA+%2F%2F+aka+raph;Red+Team+%C2%B7+Blue+Team+%C2%B7+AI+%26+Data;Think+like+an+attacker.+Build+like+a+defender." alt="Typing SVG" />
 
 ### AI & Cybersecurity Engineering Student · ENSA Béni Mellal
 
